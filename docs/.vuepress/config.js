@@ -2,6 +2,7 @@ module.exports = {
   "title": "JavaScript算法记录",
   "description": "",
   "dest": "public",
+  "base": "/algorithm-blog/",
   "head": [
     [
       "link",
